@@ -61,3 +61,4 @@ dkms.conf
 
 # Arm project user dependant file 
 ./examples/*/*.uvguix.*
+.venv
